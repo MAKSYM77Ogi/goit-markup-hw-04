@@ -491,7 +491,12 @@ margin: 0;
         padding: 100px 0 ;
   }
 
+  .footer-logo {
+    margin-right: 120px;}
 
+.social-media{
+  display: flex;
+}
 
   .icon {
     fill: #f4f4fd;

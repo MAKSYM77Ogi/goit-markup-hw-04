@@ -494,9 +494,11 @@ margin: 0;
   .footer-logo {
     margin-right: 120px;}
 
-.social-media{
-  display: flex;
-}
+    .social-links-footer {
+      display: flex;
+      gap: 16px;
+    }
+
 
   .icon {
     fill: #f4f4fd;

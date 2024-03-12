@@ -368,6 +368,8 @@ p {
 
 .portfolio {
   color: #2e2f42;
+  padding-top: 120px;
+  padding-bottom: 120px;
 }
 .portfolio-item {
   display: flex;

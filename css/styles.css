@@ -199,10 +199,15 @@ p {
     .hero-btn:hover{
         background-color: #404BBF;
     }
-
-     .section{
+       /*=====section==2======*/
+    
+       .section{
         padding: 120px 0 ;
         display: flex;
+     }
+     .strategy-flex{
+      display: flex; 
+      gap: 24px;
      }
      
      .visually-hidden {
@@ -387,7 +392,7 @@ p {
   color: #f4f4fd;
   font-size: 16px;
   line-height: 1.5;
-  letter-spacing: 0.32px;
+  letter-spacing: 0.02em;
   padding: 40px 32px;
   position: absolute;
   top: 0;
@@ -410,7 +415,7 @@ p {
   font-size: 36px;
   font-weight: 700;
   line-height: 1.11;
-  letter-spacing: 0.72px;
+  letter-spacing: 0.02em;
   text-transform: capitalize;
   margin-bottom: 72px;
 }
@@ -432,7 +437,7 @@ p {
 .portfolio-name-text {
   font-size: 16px;
   line-height: 1.5;
-  letter-spacing: 0.32px;
+  letter-spacing: 0.02em;
   margin: 0;
 }
 
@@ -476,7 +481,7 @@ margin: 0;
   font-size: 16px;
   font-weight: 500;
   line-height: 1.5;
-  letter-spacing: 0.32px;
+  letter-spacing: 0.2em;
   margin-bottom: 16px;
 }
       
